@@ -1,0 +1,13 @@
+.title {
+}
+
+.main-title {  
+  color: black;
+  @include font(4rem, Helvetica, 300);
+  position: relative;
+  top: 8rem;
+  left: 5rem;
+}
+
+
+
